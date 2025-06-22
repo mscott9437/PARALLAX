@@ -1,2 +1,2 @@
 # PARALLAX
-Open world survival simulator
+Open world survival
